@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DocumentStoreProvider.cs](./CS/ConfigureConnectionStringAtRuntime.Web/DocumentStoreProvider.cs) (VB: [DocumentStoreProvider.vb](./VB/ConfigureConnectionStringAtRuntime.Web/DocumentStoreProvider.vb))
+<!-- default file list end -->
 # Report (Export) Service - How to change the ConnectionString property at runtime
 
 
